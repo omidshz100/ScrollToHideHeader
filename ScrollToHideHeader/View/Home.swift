@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+// init 
 struct Home: View {
     var body: some View {
         ScrollView(.vertical){
